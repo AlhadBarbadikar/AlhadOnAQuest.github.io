@@ -2,13 +2,17 @@ title: Alhad Barbadikar # your name (or website title) here
 logo: "/images/20190614_091123.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Motivated and dynamic Data Scientist with multifaceted expertise in business analytics,
-  creating performance dashboards, and designing executive-level reporting to keep communications 
+  <br><br>
+  creating performance dashboards, and designing executive-level reporting to keep communications
+  <br><br>
   fluid and businesses profitable. 
   <br><br> 
   Looking for an entry level job in Data Science & then hopefully a
+  <br><br>
   better understanding of the world
   <br><br>
-  <a href="https://www.linkedin.com/in/alhadbarbadikar/">View My LinkedIn Profile</a> 
+  <br><br>
+  <a href="https://www.linkedin.com/in/alhadbarbadikar/">View My LinkedIn Profile</a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-144840443-1 # your Google Analytics tracking ID here
