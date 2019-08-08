@@ -29,6 +29,7 @@
 
 - [Impact of Shall law - Medium article](https://towardsdatascience.com/do-more-guns-reduce-violence-crime-rate-part-i-data-visualization-fb3fd6a918a5)
 ---
+- [An informal presentation](/pdf/BriefPresentation.pdf)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
