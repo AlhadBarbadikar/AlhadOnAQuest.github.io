@@ -4,6 +4,10 @@
 
 ### List of my Projects
 
+[Minard's visualization of Napoleon's March]
+<img src="images/napoleon.png?raw=true"/>
+
+---
 [Customer & Inventory Segmentation](/pdf/Segmentation_Group2.pdf)
 <img src="images/Customer_Segments.png?raw=true"/>
 
