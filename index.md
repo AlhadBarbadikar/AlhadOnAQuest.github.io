@@ -4,7 +4,7 @@
 
 ### List of my Projects
 
-[Minard's visualization of Napoleon's March]
+Minard's visualization of Napoleon's March
 <img src="images/napoleon.png?raw=true"/>
 
 ---
